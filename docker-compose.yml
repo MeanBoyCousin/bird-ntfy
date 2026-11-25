@@ -48,6 +48,15 @@ services:
             timeout: 3s
             retries: 5
 
+    frontail:
+        image: hbenali/frontail:latest
+        restart: unless-stopped
+        command: ['-D', '/logs']
+        ports:
+            - '9001:9001'
+        volumes:
+            - observation-logs:/logs:ro
+
 volumes:
     observation-logs:
     redis-data:
