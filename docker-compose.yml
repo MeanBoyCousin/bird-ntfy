@@ -1,0 +1,53 @@
+x-env: &env
+    LOG_DIR: /logs
+    REDIS_URL: redis://redis:6379
+    TZ: Europe/London
+
+x-app: &app
+    build: .
+    image: bird-ntfy:latest
+    restart: unless-stopped
+    depends_on:
+        redis:
+            condition: service_healthy
+    volumes:
+        - observation-logs:/logs
+
+services:
+    e-bird-hants:
+        <<: *app
+        command: ['node', 'dist/topics/e-bird-hants.js']
+        environment:
+            <<: *env
+            E_BIRD_API_KEY: ${E_BIRD_API_KEY}
+            TOPIC: e-bird-hants
+
+    hants-birding:
+        <<: *app
+        command: ['node', 'dist/topics/hants-birding.js']
+        environment:
+            <<: *env
+            TOPIC: hants-birding
+
+    rare-birding:
+        <<: *app
+        command: ['node', 'dist/topics/rare-birding.js']
+        environment:
+            <<: *env
+            TOPIC: rare-birding
+
+    redis:
+        image: redis:7-alpine
+        restart: unless-stopped
+        command: ['redis-server', '--appendonly', 'yes']
+        volumes:
+            - redis-data:/data
+        healthcheck:
+            test: ['CMD', 'redis-cli', 'ping']
+            interval: 5s
+            timeout: 3s
+            retries: 5
+
+volumes:
+    observation-logs:
+    redis-data:

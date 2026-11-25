@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+Dockerfile
+docker-compose.yml
+dist
+sand.ts
+.vitest/
+vitest.*.ts
+tests
+coverage
+*.tar
+*.MD
+logs

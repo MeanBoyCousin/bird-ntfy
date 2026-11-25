@@ -1,0 +1,39 @@
+{
+    "name": "bird-ntfy",
+    "version": "0.9.6+25112026",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc -p tsconfig.build.json",
+        "buildx:setup": "docker buildx use pibuilder || docker buildx create --name pibuilder --driver docker-container --use",
+        "build:pi": "npm run buildx:setup && docker buildx build --platform linux/arm/v6 -t bird-ntfy:latest --output type=docker,dest=bird-ntfy.tar .",
+        "deploy": "docker compose up --build -d",
+        "deploy:pi": "docker load -i bird-ntfy.tar && docker compose up -d --remove-orphans",
+        "docker:redis:cli": "docker exec -it bird-ntfy-redis-1 redis-cli",
+        "release:pi": "npm run build:pi && npm run ship:pi && ssh admin@rpi0-home.local \"cd ~/bird-ntfy && npm run deploy:pi\"",
+        "ship:pi": "scp .env bird-ntfy.tar docker-compose.yml package.json admin@rpi0-home:~/bird-ntfy/",
+        "test": "vitest",
+        "test:coverage": "vitest --coverage"
+    },
+    "dependencies": {
+        "@mapbox/geo-viewport": "^0.5.0",
+        "croner": "^10.0.1",
+        "dayjs": "^1.11.23",
+        "dedent": "^1.7.2",
+        "dotenv": "^18.0.10",
+        "geodesy": "^2.4.0",
+        "node-html-parser": "^9.0.4",
+        "papaparse": "^5.7.0",
+        "redis": "^6.3.0"
+    },
+    "devDependencies": {
+        "@fetch-mock/vitest": "^0.2.18",
+        "@types/mapbox__geo-viewport": "^0.5.3",
+        "@types/node": "^26.6.4",
+        "@types/papaparse": "^5.5.2",
+        "@vitest/coverage-v8": "^5.0.5",
+        "tsx": "^4.23.15",
+        "typescript": "^5.7.3",
+        "vitest": "^5.0.5"
+    }
+}

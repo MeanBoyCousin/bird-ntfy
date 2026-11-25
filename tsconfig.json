@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+        "esModuleInterop": true,
+        "outDir": "dist",
+        "rootDir": ".",
+        "strict": true,
+        "skipLibCheck": true,
+        "types": ["vitest/globals"]
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules", "dist"]
+}
