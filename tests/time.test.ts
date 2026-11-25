@@ -65,7 +65,7 @@ describe('isDaylightHours', () => {
             expect.objectContaining({
                 expiration: expect.objectContaining({
                     type: 'EXAT',
-                    value: 1792623540
+                    value: 1792627140
                 })
             })
         )
@@ -75,7 +75,7 @@ describe('isDaylightHours', () => {
             expect.objectContaining({
                 expiration: expect.objectContaining({
                     type: 'EXAT',
-                    value: 1792623540
+                    value: 1792627140
                 })
             })
         )
@@ -94,7 +94,7 @@ describe('isDaylightHours', () => {
             expect.objectContaining({
                 expiration: expect.objectContaining({
                     type: 'EXAT',
-                    value: 1792623540
+                    value: 1792627140
                 })
             })
         )
@@ -104,7 +104,7 @@ describe('isDaylightHours', () => {
             expect.objectContaining({
                 expiration: expect.objectContaining({
                     type: 'EXAT',
-                    value: 1792623540
+                    value: 1792627140
                 })
             })
         )

@@ -21,4 +21,5 @@ beforeEach(() => {
     vi.clearAllMocks()
     fetchMock.removeRoutes()
     fetchMock.clearHistory()
+    vi.spyOn(console, 'error').mockImplementation(() => {})
 })
