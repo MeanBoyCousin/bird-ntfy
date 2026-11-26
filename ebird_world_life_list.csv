@@ -1,130 +1,132 @@
 Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
-1,25378,species,Eurasian Blackcap,Sylvia atricapilla,,Finkley Down Farm Path,GB-ENG,25 Nov 2026,L80018513,S413086565,,1
-2,28611,species,Song Thrush,Turdus philomelos,,Home,GB-ENG,25 Nov 2026,L77681374,S413014175,,1
-3,9170,species,Little Owl,Athene noctua,,"Manor Farm Lane, Deane
+1,685,species,Common Pochard,Aythya ferina,,Fishlake Meadows NR,GB-ENG,26 Nov 2026,L80040625,S413240331,,1
+2,32499,species,Eurasian Bullfinch,Pyrrhula pyrrhula,,Fishlake Meadows NR,GB-ENG,26 Nov 2026,L6183980,S413239026,,1
+3,25378,species,Eurasian Blackcap,Sylvia atricapilla,,Finkley Down Farm Path,GB-ENG,25 Nov 2026,L80018513,S413086565,,1
+4,28611,species,Song Thrush,Turdus philomelos,,Home,GB-ENG,25 Nov 2026,L77681374,S413014175,,1
+5,9170,species,Little Owl,Athene noctua,,"Manor Farm Lane, Deane
 Basingstoke
 England
 RG25
 United Kingdom",GB-ENG,24 Nov 2026,L79990610,S412883004,N,1
-4,25484,species,Dartford Warbler,Curruca undata,,Thursley Common NNR,GB-ENG,21 Nov 2026,L79929561,S412077749,,1
-5,6169,species,Green Sandpiper,Tringa ochropus,,Tice's Meadow,GB-ENG,21 Nov 2026,L1035838,S411992861,,1
-6,423,species,Egyptian Goose,Alopochen aegyptiaca,,Tilford Cricket Green,GB-ENG,21 Nov 2026,L79872758,S411984431,N,1
-7,783,species,Goosander,Mergus merganser,,Cadman’s Pool NF,GB-ENG,18 Nov 2026,L79797987,S411416177,,1
-8,465,species,Mandarin Duck,Aix galericulata,,Cadman’s Pool NF,GB-ENG,18 Nov 2026,L79797987,S411371312,N,1
-9,28607,species,Mistle Thrush,Turdus viscivorus,,"Five Bridges, Winchester",GB-ENG,12 Nov 2026,L79626342,S410144859,,1
-10,6537,species,Franklin's Gull,Leucophaeus pipixcan,,"Lanham Lane, Winchester",GB-ENG,12 Nov 2026,L79625759,S410140049,,1
-11,28773,species,Fieldfare,Turdus pilaris,,Breamore,GB-ENG,11 Nov 2026,L79626392,S410145257,,1
-12,5850,species,Grey Plover,Pluvialis squatarola,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409323745,,1
-13,5815,species,Pied Avocet,Recurvirostra avosetta,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409325695,,1
-14,606,species,Northern Pintail,Anas acuta,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409325191,,1
-15,509,species,Northern Shoveler,Spatula clypeata,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409326590,,1
-16,433,species,Common Shelduck,Tadorna tadorna,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409324829,,1
-17,9981,species,Common Kingfisher,Alcedo atthis,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L79397779,S408435807,,1
-18,5345,species,Water Rail,Rallus aquaticus,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L7022283,S408327103,,1
-19,705,species,Tufted Duck,Aythya fuligula,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L79397779,S409308307,,1
-20,8365,species,Western Marsh Harrier,Circus aeruginosus,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316738,S407780781,,1
-21,2055,species,Collared Dove,Streptopelia decaocto,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316703,S407780548,,1
-22,32848,species,Eurasian Siskin,Spinus spinus,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316664,S407780205,,1
-23,27000,species,Goldcrest,Regulus regulus,,"Netherton Hill, Faccombe
+6,25484,species,Dartford Warbler,Curruca undata,,Thursley Common NNR,GB-ENG,21 Nov 2026,L79929561,S412077749,,1
+7,6169,species,Green Sandpiper,Tringa ochropus,,Tice's Meadow,GB-ENG,21 Nov 2026,L1035838,S411992861,,1
+8,423,species,Egyptian Goose,Alopochen aegyptiaca,,Tilford Cricket Green,GB-ENG,21 Nov 2026,L79872758,S411984431,N,1
+9,783,species,Goosander,Mergus merganser,,Cadman’s Pool NF,GB-ENG,18 Nov 2026,L79797987,S411416177,,1
+10,465,species,Mandarin Duck,Aix galericulata,,Cadman’s Pool NF,GB-ENG,18 Nov 2026,L79797987,S411371312,N,1
+11,28607,species,Mistle Thrush,Turdus viscivorus,,"Five Bridges, Winchester",GB-ENG,12 Nov 2026,L79626342,S410144859,,1
+12,6537,species,Franklin's Gull,Leucophaeus pipixcan,,"Lanham Lane, Winchester",GB-ENG,12 Nov 2026,L79625759,S410140049,,1
+13,28773,species,Fieldfare,Turdus pilaris,,Breamore,GB-ENG,11 Nov 2026,L79626392,S410145257,,1
+14,5850,species,Grey Plover,Pluvialis squatarola,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409323745,,1
+15,5815,species,Pied Avocet,Recurvirostra avosetta,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409325695,,1
+16,606,species,Northern Pintail,Anas acuta,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409325191,,1
+17,509,species,Northern Shoveler,Spatula clypeata,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409326590,,1
+18,433,species,Common Shelduck,Tadorna tadorna,,Farlington Marshes HIWWT NR and LNR,GB-ENG,08 Nov 2026,L1190736,S409324829,,1
+19,9981,species,Common Kingfisher,Alcedo atthis,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L79397779,S408435807,,1
+20,5345,species,Water Rail,Rallus aquaticus,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L7022283,S408327103,,1
+21,705,species,Tufted Duck,Aythya fuligula,,Anton Lakes LNR,GB-ENG,06 Nov 2026,L79397779,S409308307,,1
+22,8365,species,Western Marsh Harrier,Circus aeruginosus,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316738,S407780781,,1
+23,2055,species,Collared Dove,Streptopelia decaocto,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316703,S407780548,,1
+24,32848,species,Eurasian Siskin,Spinus spinus,,Fishlake Meadows NR,GB-ENG,03 Nov 2026,L79316664,S407780205,,1
+25,27000,species,Goldcrest,Regulus regulus,,"Netherton Hill, Faccombe
 Andover
 England
 SP11
 United Kingdom",GB-ENG,31 Oct 2026,L79243475,S407227331,,1
-24,32982,species,Yellowhammer,Emberiza citrinella,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406355611,,1
-25,22717,species,Eurasian Skylark,Alauda arvensis,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406355668,,1
-26,9339,species,Short-eared Owl,Asio flammeus,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406539527,,1
-27,6067,species,Eurasian Curlew,Numenius arquata,,Mercury Marshes LNR,GB-ENG,22 Oct 2026,L28555764,S404434272,,1
-28,520,species,Eurasian Wigeon,Mareca penelope,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S404425223,,1
-29,32115,species,Rock Pipit,Anthus petrosus,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405581602,,1
-30,6588,species,European Herring Gull,Larus argentatus,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405580298,,1
-31,6083,species,Black-tailed Godwit,Limosa limosa,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405701211,,1
-32,318,species,Brent Goose,Branta bernicla,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405582641,,1
-33,29884,species,European Stonechat,Saxicola rubicola,,Crabtree Plantation,GB-ENG,19 Oct 2026,L31344872,S403781949,,1
-34,28675,species,Redwing,Turdus iliacus,,Crabtree Plantation,GB-ENG,19 Oct 2026,L31344872,S403765282,,1
-35,21440,species,Eurasian Jay,Garrulus glandarius,,Harewood Forest,GB-ENG,13 Oct 2026,L34565958,S402018345,,1
-36,31960,species,Pied Wagtail/White Wagtail,Motacilla alba,,Mockbeggar Gravel Pits,GB-ENG,10 Oct 2026,L1019213,S400958702,,1
-37,625,species,Eurasian/Green-winged Teal,Anas crecca,,Blashford Lakes HIWWT NR--Ibsley Water,GB-ENG,10 Oct 2026,L10488455,S400825694,,1
-38,7787,species,Great White Egret,Ardea alba,,Blashford Lakes HIWWT NR--Ibsley Water,GB-ENG,10 Oct 2026,L10488455,S400805982,,1
-39,6924,species,Great Crested Grebe,Podiceps cristatus,,Poulner Lakes--Kingfisher Lake (Restricted access),GB-ENG,10 Oct 2026,L17052455,S400797937,,1
-40,8426,species,White-tailed Eagle,Haliaeetus albicilla,,Poulner Lakes--Kingfisher Lake (Restricted access),GB-ENG,10 Oct 2026,L17052455,S400794090,P,1
-41,8672,species,Western Barn Owl,Tyto alba,,"Winchester
+26,32982,species,Yellowhammer,Emberiza citrinella,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406355611,,1
+27,22717,species,Eurasian Skylark,Alauda arvensis,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406355668,,1
+28,9339,species,Short-eared Owl,Asio flammeus,,South Downs NP--Beacon Hill NNR,GB-ENG,29 Oct 2026,L19771918,S406539527,,1
+29,6067,species,Eurasian Curlew,Numenius arquata,,Mercury Marshes LNR,GB-ENG,22 Oct 2026,L28555764,S404434272,,1
+30,520,species,Eurasian Wigeon,Mareca penelope,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S404425223,,1
+31,32115,species,Rock Pipit,Anthus petrosus,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405581602,,1
+32,6588,species,European Herring Gull,Larus argentatus,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405580298,,1
+33,6083,species,Black-tailed Godwit,Limosa limosa,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405701211,,1
+34,318,species,Brent Goose,Branta bernicla,,Hook with Warsash LNR--Bunny Meadows,GB-ENG,22 Oct 2026,L3111373,S405582641,,1
+35,29884,species,European Stonechat,Saxicola rubicola,,Crabtree Plantation,GB-ENG,19 Oct 2026,L31344872,S403781949,,1
+36,28675,species,Redwing,Turdus iliacus,,Crabtree Plantation,GB-ENG,19 Oct 2026,L31344872,S403765282,,1
+37,21440,species,Eurasian Jay,Garrulus glandarius,,Harewood Forest,GB-ENG,13 Oct 2026,L34565958,S402018345,,1
+38,31960,species,Pied Wagtail/White Wagtail,Motacilla alba,,Mockbeggar Gravel Pits,GB-ENG,10 Oct 2026,L1019213,S400958702,,1
+39,625,species,Eurasian/Green-winged Teal,Anas crecca,,Blashford Lakes HIWWT NR--Ibsley Water,GB-ENG,10 Oct 2026,L10488455,S400825694,,1
+40,7787,species,Great White Egret,Ardea alba,,Blashford Lakes HIWWT NR--Ibsley Water,GB-ENG,10 Oct 2026,L10488455,S400805982,,1
+41,6924,species,Great Crested Grebe,Podiceps cristatus,,Poulner Lakes--Kingfisher Lake (Restricted access),GB-ENG,10 Oct 2026,L17052455,S400797937,,1
+42,8426,species,White-tailed Eagle,Haliaeetus albicilla,,Poulner Lakes--Kingfisher Lake (Restricted access),GB-ENG,10 Oct 2026,L17052455,S400794090,P,1
+43,8672,species,Western Barn Owl,Tyto alba,,"Winchester
 England
 SO21
 United Kingdom",GB-ENG,05 Oct 2026,L78196216,S399526459,,1
-42,12073,species,Common Kestrel,Falco tinnunculus,,"Winchester
+44,12073,species,Common Kestrel,Falco tinnunculus,,"Winchester
 England
 SO21
 United Kingdom",GB-ENG,05 Oct 2026,L78196216,S399522926,,1
-43,28678,species,Eurasian Blackbird,Turdus merula,,Salisbury Cathedral,GB-ENG,04 Oct 2026,L6135283,S399199583,,1
-44,22047,species,Coal Tit,Periparus ater,,Chobham Common NNR--South,GB-ENG,03 Oct 2026,L1332746,S398706939,,1
-45,8305,species,Eurasian Sparrowhawk,Accipiter nisus,,Home Green,GB-ENG,02 Oct 2026,L78023841,S398357937,,1
-46,6879,species,Little Grebe,Tachybaptus ruficollis,,Anton Lakes LNR,GB-ENG,01 Oct 2026,L7022283,S398027305,,1
-47,31916,species,Grey Wagtail,Motacilla cinerea,,Anton Lakes LNR,GB-ENG,01 Oct 2026,L7022283,S398024653,,1
-48,6202,species,Ruddy Turnstone,Arenaria interpres,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397763315,,1
-49,6516,species,Black-headed Gull,Chroicocephalus ridibundus,,Titchfield Haven NNR--South Scrape,GB-ENG,30 Sep 2026,L45361861,S397751997,,1
-50,513,species,Gadwall,Mareca strepera,,Titchfield Haven NNR--South Scrape,GB-ENG,30 Sep 2026,L45361861,S397751926,,1
-51,6140,species,Common Snipe,Gallinago gallinago,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397742646,,1
-52,276,species,Greylag Goose,Anser anser,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397742421,,1
-53,5895,species,Northern Lapwing,Vanellus vanellus,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397739099,,1
-54,6179,species,Common Redshank,Tringa totanus,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397738364,,1
-55,6556,species,Common Gull,Larus canus,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397735095,,1
-56,27986,species,Common Starling,Sturnus vulgaris,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397734784,,1
-57,25217,species,Cetti's Warbler,Cettia cetti,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397731670,,1
-58,7708,species,Little Egret,Egretta garzetta,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397726093,,1
-59,7452,species,Great Cormorant,Phalacrocorax carbo,,Titchfield Haven,GB-ENG,30 Sep 2026,L77934643,S397721855,,1
-60,5525,species,Eurasian Coot,Fulica atra,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397721556,,1
-61,1783,species,Red-legged Partridge,Alectoris rufa,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397485031,N,1
-62,21674,species,Carrion Crow,Corvus corone,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397478498,,1
-63,32094,species,Meadow Pipit,Anthus pratensis,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397475125,,1
-64,8403,species,Red Kite,Milvus milvus,,"Netherton Road, Faccombe
+45,28678,species,Eurasian Blackbird,Turdus merula,,Salisbury Cathedral,GB-ENG,04 Oct 2026,L6135283,S399199583,,1
+46,22047,species,Coal Tit,Periparus ater,,Chobham Common NNR--South,GB-ENG,03 Oct 2026,L1332746,S398706939,,1
+47,8305,species,Eurasian Sparrowhawk,Accipiter nisus,,Home Green,GB-ENG,02 Oct 2026,L78023841,S398357937,,1
+48,6879,species,Little Grebe,Tachybaptus ruficollis,,Anton Lakes LNR,GB-ENG,01 Oct 2026,L7022283,S398027305,,1
+49,31916,species,Grey Wagtail,Motacilla cinerea,,Anton Lakes LNR,GB-ENG,01 Oct 2026,L7022283,S398024653,,1
+50,6202,species,Ruddy Turnstone,Arenaria interpres,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397763315,,1
+51,6516,species,Black-headed Gull,Chroicocephalus ridibundus,,Titchfield Haven NNR--South Scrape,GB-ENG,30 Sep 2026,L45361861,S397751997,,1
+52,513,species,Gadwall,Mareca strepera,,Titchfield Haven NNR--South Scrape,GB-ENG,30 Sep 2026,L45361861,S397751926,,1
+53,6140,species,Common Snipe,Gallinago gallinago,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397742646,,1
+54,276,species,Greylag Goose,Anser anser,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397742421,,1
+55,5895,species,Northern Lapwing,Vanellus vanellus,,Titchfield Haven,GB-ENG,30 Sep 2026,L77763925,S397739099,,1
+56,6179,species,Common Redshank,Tringa totanus,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397738364,,1
+57,6556,species,Common Gull,Larus canus,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397735095,,1
+58,27986,species,Common Starling,Sturnus vulgaris,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,30 Sep 2026,L3786295,S397734784,,1
+59,25217,species,Cetti's Warbler,Cettia cetti,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397731670,,1
+60,7708,species,Little Egret,Egretta garzetta,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397726093,,1
+61,7452,species,Great Cormorant,Phalacrocorax carbo,,Titchfield Haven,GB-ENG,30 Sep 2026,L77934643,S397721855,,1
+62,5525,species,Eurasian Coot,Fulica atra,,Titchfield Haven NNR,GB-ENG,30 Sep 2026,L1327193,S397721556,,1
+63,1783,species,Red-legged Partridge,Alectoris rufa,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397485031,N,1
+64,21674,species,Carrion Crow,Corvus corone,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397478498,,1
+65,32094,species,Meadow Pipit,Anthus pratensis,,Combe Gibbett and Walbury Hill,GB-ENG,29 Sep 2026,L11881839,S397475125,,1
+66,8403,species,Red Kite,Milvus milvus,,"Netherton Road, Faccombe
 Andover
 England
 SP11
 United Kingdom",GB-ENG,29 Sep 2026,L77897886,S397468203,,1
-65,8606,species,Common Buzzard,Buteo buteo,,"Netherton Road, Faccombe
+67,8606,species,Common Buzzard,Buteo buteo,,"Netherton Road, Faccombe
 Andover
 England
 SP11
 United Kingdom",GB-ENG,29 Sep 2026,L77897886,S397467125,,1
-66,554,species,Mallard,Anas platyrhynchos,,Winchester Water Meadows and College Campus,GB-ENG,28 Sep 2026,L4766583,S397237374,,1
-67,5500,species,Common Moorhen,Gallinula chloropus,,Winchester Water Meadows and College Campus,GB-ENG,28 Sep 2026,L4766583,S397235075,,1
-68,11751,species,Eurasian Green Woodpecker,Picus viridis,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397230048,,1
-69,31754,species,Dunnock,Prunella modularis,,Itchen Navigation Heritage Trail near St Catherine's Hill,GB-ENG,28 Sep 2026,L5569706,S397229154,,1
-70,1909,species,Common Woodpigeon,Columba palumbus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397182186,,1
-71,24959,species,Common Chiffchaff,Phylloscopus collybita,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397183864,,1
-72,22213,species,Eurasian Blue Tit,Cyanistes caeruleus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397184381,,1
-73,21612,species,Eurasian Jackdaw,Coloeus monedula,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397182347,,1
-74,1499,species,Common Pheasant,Phasianus colchicus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397183813,N,1
-75,21653,species,Rook,Corvus frugilegus,,Home,GB-ENG,28 Sep 2026,L77681374,S397168027,,1
-76,21565,species,Common Magpie,Pica pica,,Millhouse Farm,GB-ENG,27 Sep 2026,L12106708,S396886337,,1
-77,29444,species,European Robin,Erithacus rubecula,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396485172,,1
-78,27158,species,Eurasian Treecreeper,Certhia familiaris,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396480449,,1
-79,27114,species,Eurasian Nuthatch,Sitta europaea,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396459152,,1
-80,22276,species,Great Tit,Parus major,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396454662,,1
-81,22128,species,Marsh Tit,Poecile palustris,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396457122,,1
-82,27418,species,Eurasian Wren,Nannus troglodytes,,Parcul Titulescu,RO-BV,26 Sep 2026,L43271332,S396453076,,1
-83,32187,species,Common Chaffinch,Fringilla coelebs,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396448712,,1
-84,21721,species,Common Raven,Corvus corax,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396066434,,1
-85,29828,species,Black Redstart,Phoenicurus ochruros,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065702,,1
-86,25319,species,Long-tailed Tit,Aegithalos caudatus,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065769,,1
-87,11426,species,Great Spotted Woodpecker,Dendrocopos major,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065813,,1
-88,1904,species,Stock Dove,Columba oenas,,Stockbridge Common Marsh,GB-ENG,23 Aug 2026,L77681530,S396068854,,1
-89,6798,species,Common Tern,Sterna hirundo,,Titchfield Haven,GB-ENG,08 Aug 2026,L77763925,S396584234,,1
-90,7582,species,Eurasian Spoonbill,Platalea leucorodia,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,08 Aug 2026,L3786295,S396567493,,1
-91,7346,species,White Stork,Ciconia ciconia,,Knepp Wildlands and Estate--Millpond,GB-ENG,02 Aug 2026,L11187344,S397210825,P,1
-92,32723,species,Common Linnet,Linaria cannabina,,Rough Bank Nature Reserve,GB-ENG,15 Jul 2026,L77763826,S396583428,,1
-93,32803,species,European Goldfinch,Carduelis carduelis,,Home,GB-ENG,25 Jun 2026,L77681374,S396067698,,1
-94,7803,species,Grey Heron,Ardea cinerea,,Mill Lake,GB-ENG,21 May 2026,L77759448,S396555902,,1
-95,382,species,Mute Swan,Cygnus olor,,Andover,GB-ENG,15 May 2026,L77759498,S396556246,,1
-96,1875,species,Rock Dove,Columba livia,,Winchester,GB-ENG,18 Oct 2025,L77763324,S396580337,,1
-97,12140,species,Eleonora's Falcon,Falco eleonorae,,Imeri Gramvousa,GR-M,05 Oct 2025,L77759736,S396557771,,1
-98,347,species,Canada Goose,Branta canadensis,,Andover,GB-ENG,13 May 2025,L77759883,S396558693,N,1
-99,7873,species,Turkey Vulture,Cathartes aura,,Mount Finlayson,CA-BC,16 Sep 2024,L77757550,S396544196,,1
-100,7890,species,Osprey,Pandion haliaetus,,Green Lake,CA-BC,14 Sep 2024,L77756913,S396540187,,1
-101,7811,species,Great Blue Heron,Ardea herodias,,Green Lake,CA-BC,13 Sep 2024,L77763232,S396579721,,1
-102,22164,species,Black-capped Chickadee,Poecile atricapillus,,Stanley Park,CA-BC,07 Sep 2024,L275701,S396066178,,1
-103,34768,species,Northern Cardinal,Cardinalis cardinalis,,Jardin Botanique,CA-QC,09 Jul 2022,L77760400,S396562162,,1
-104,32871,species,American Goldfinch,Spinus tristis,,Jardin Botanique,CA-QC,09 Jul 2022,L77760528,S396562924,,1
-105,27083,species,Red-breasted Nuthatch,Sitta canadensis,,Jardin botanique de Montréal,CA-QC,09 Jul 2022,L165056,S396578299,,1
-106,5825,species,Eurasian Oystercatcher,Haematopus ostralegus,,Llanfairfechan,GB-WLS,25 Aug 2017,L77762628,S396576328,,1
-107,31772,species,House Sparrow,Passer domesticus,,Faro,PT-08,28 Jun 2017,L77762728,S396576935,,1
+68,554,species,Mallard,Anas platyrhynchos,,Winchester Water Meadows and College Campus,GB-ENG,28 Sep 2026,L4766583,S397237374,,1
+69,5500,species,Common Moorhen,Gallinula chloropus,,Winchester Water Meadows and College Campus,GB-ENG,28 Sep 2026,L4766583,S397235075,,1
+70,11751,species,Eurasian Green Woodpecker,Picus viridis,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397230048,,1
+71,31754,species,Dunnock,Prunella modularis,,Itchen Navigation Heritage Trail near St Catherine's Hill,GB-ENG,28 Sep 2026,L5569706,S397229154,,1
+72,1909,species,Common Woodpigeon,Columba palumbus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397182186,,1
+73,24959,species,Common Chiffchaff,Phylloscopus collybita,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397183864,,1
+74,22213,species,Eurasian Blue Tit,Cyanistes caeruleus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397184381,,1
+75,21612,species,Eurasian Jackdaw,Coloeus monedula,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397182347,,1
+76,1499,species,Common Pheasant,Phasianus colchicus,,St Catherine's Hill HIWWT NR,GB-ENG,28 Sep 2026,L7727618,S397183813,N,1
+77,21653,species,Rook,Corvus frugilegus,,Home,GB-ENG,28 Sep 2026,L77681374,S397168027,,1
+78,21565,species,Common Magpie,Pica pica,,Millhouse Farm,GB-ENG,27 Sep 2026,L12106708,S396886337,,1
+79,29444,species,European Robin,Erithacus rubecula,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396485172,,1
+80,27158,species,Eurasian Treecreeper,Certhia familiaris,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396480449,,1
+81,27114,species,Eurasian Nuthatch,Sitta europaea,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396459152,,1
+82,22276,species,Great Tit,Parus major,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396454662,,1
+83,22128,species,Marsh Tit,Poecile palustris,,Muntele Tâmpa,RO-BV,26 Sep 2026,L10732445,S396457122,,1
+84,27418,species,Eurasian Wren,Nannus troglodytes,,Parcul Titulescu,RO-BV,26 Sep 2026,L43271332,S396453076,,1
+85,32187,species,Common Chaffinch,Fringilla coelebs,,Piata Sfatului,RO-BV,26 Sep 2026,L49945305,S396448712,,1
+86,21721,species,Common Raven,Corvus corax,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396066434,,1
+87,29828,species,Black Redstart,Phoenicurus ochruros,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065702,,1
+88,25319,species,Long-tailed Tit,Aegithalos caudatus,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065769,,1
+89,11426,species,Great Spotted Woodpecker,Dendrocopos major,,RO: Cetatea Rasnov,RO-BV,25 Sep 2026,L9446352,S396065813,,1
+90,1904,species,Stock Dove,Columba oenas,,Stockbridge Common Marsh,GB-ENG,23 Aug 2026,L77681530,S396068854,,1
+91,6798,species,Common Tern,Sterna hirundo,,Titchfield Haven,GB-ENG,08 Aug 2026,L77763925,S396584234,,1
+92,7582,species,Eurasian Spoonbill,Platalea leucorodia,,Titchfield Haven NNR--Hillhead Harbour,GB-ENG,08 Aug 2026,L3786295,S396567493,,1
+93,7346,species,White Stork,Ciconia ciconia,,Knepp Wildlands and Estate--Millpond,GB-ENG,02 Aug 2026,L11187344,S397210825,P,1
+94,32723,species,Common Linnet,Linaria cannabina,,Rough Bank Nature Reserve,GB-ENG,15 Jul 2026,L77763826,S396583428,,1
+95,32803,species,European Goldfinch,Carduelis carduelis,,Home,GB-ENG,25 Jun 2026,L77681374,S396067698,,1
+96,7803,species,Grey Heron,Ardea cinerea,,Mill Lake,GB-ENG,21 May 2026,L77759448,S396555902,,1
+97,382,species,Mute Swan,Cygnus olor,,Andover,GB-ENG,15 May 2026,L77759498,S396556246,,1
+98,1875,species,Rock Dove,Columba livia,,Winchester,GB-ENG,18 Oct 2025,L77763324,S396580337,,1
+99,12140,species,Eleonora's Falcon,Falco eleonorae,,Imeri Gramvousa,GR-M,05 Oct 2025,L77759736,S396557771,,1
+100,347,species,Canada Goose,Branta canadensis,,Andover,GB-ENG,13 May 2025,L77759883,S396558693,N,1
+101,7873,species,Turkey Vulture,Cathartes aura,,Mount Finlayson,CA-BC,16 Sep 2024,L77757550,S396544196,,1
+102,7890,species,Osprey,Pandion haliaetus,,Green Lake,CA-BC,14 Sep 2024,L77756913,S396540187,,1
+103,7811,species,Great Blue Heron,Ardea herodias,,Green Lake,CA-BC,13 Sep 2024,L77763232,S396579721,,1
+104,22164,species,Black-capped Chickadee,Poecile atricapillus,,Stanley Park,CA-BC,07 Sep 2024,L275701,S396066178,,1
+105,34768,species,Northern Cardinal,Cardinalis cardinalis,,Jardin Botanique,CA-QC,09 Jul 2022,L77760400,S396562162,,1
+106,32871,species,American Goldfinch,Spinus tristis,,Jardin Botanique,CA-QC,09 Jul 2022,L77760528,S396562924,,1
+107,27083,species,Red-breasted Nuthatch,Sitta canadensis,,Jardin botanique de Montréal,CA-QC,09 Jul 2022,L165056,S396578299,,1
+108,5825,species,Eurasian Oystercatcher,Haematopus ostralegus,,Llanfairfechan,GB-WLS,25 Aug 2017,L77762628,S396576328,,1
+109,31772,species,House Sparrow,Passer domesticus,,Faro,PT-08,28 Jun 2017,L77762728,S396576935,,1

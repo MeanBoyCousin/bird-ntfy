@@ -1,6 +1,6 @@
 {
     "name": "bird-ntfy",
-    "version": "0.11.1+25112026",
+    "version": "0.11.1+26112026",
     "main": "index.js",
     "license": "MIT",
     "scripts": {
