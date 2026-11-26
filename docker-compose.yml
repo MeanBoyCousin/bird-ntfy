@@ -51,7 +51,7 @@ services:
     frontail:
         image: hbenali/frontail:latest
         restart: unless-stopped
-        command: ['-D', '/logs']
+        command: ['-n', '200', '-l', '5000', '-D', '/logs']
         ports:
             - '9001:9001'
         volumes:
